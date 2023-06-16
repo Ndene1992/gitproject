@@ -1,0 +1,7 @@
+.App-header{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(210, 210, 238);
+  padding: 20px 40% 20px 40%;
+}
+
